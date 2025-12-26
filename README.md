@@ -2,7 +2,10 @@
 
 A Netflix-inspired movie browsing application built with React.js, Tailwind CSS and AppWrite 
 
-- **Example images:** Available in "UI Images" folder)
+
+### **Example images:**
+- Available in "UI Images" folder)
+  
 
 ## **Overview**
 
